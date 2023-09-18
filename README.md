@@ -15,6 +15,13 @@ User-Friendly Interface: An intuitive and user-friendly design for easy navigati
 Getting Started
 Follow these steps to get the app up and running on your local development environment.
 
+### UIs
+- Home Screen
+
+![image](https://github.com/Prof-Kokoma/expense_tracker_2/assets/59128052/2ca0ac95-0390-4f96-b456-1401ed1583a4)
+
+- 
+
 ### Prerequisites
 Flutter must be installed on your system.
 Installation
