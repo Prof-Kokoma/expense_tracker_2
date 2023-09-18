@@ -77,5 +77,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Thank you to the Flutter community for providing valuable resources and plugins.
 Inspired by the need for a simple expense-tracking solution.
 ### Contact
-If you have any questions or suggestions, please feel free to contact us at your.email@example.com.
+If you have any questions or suggestions, please feel free to contact us at okoosikorede@gmail.com. 
 
