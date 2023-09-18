@@ -20,7 +20,14 @@ Follow these steps to get the app up and running on your local development envir
 
 ![image](https://github.com/Prof-Kokoma/expense_tracker_2/assets/59128052/2ca0ac95-0390-4f96-b456-1401ed1583a4)
 
-- 
+![image](https://github.com/Prof-Kokoma/expense_tracker_2/assets/59128052/0481a453-1522-4dbf-a7c9-9410ec864bee)
+
+![image](https://github.com/Prof-Kokoma/expense_tracker_2/assets/59128052/7d8b51e8-32a2-4f9b-9569-c0e61543e8dd)
+
+- Category Screen
+  
+ ![image](https://github.com/Prof-Kokoma/expense_tracker_2/assets/59128052/32d96ea1-039d-45f4-a237-f159de2a8833)
+
 
 ### Prerequisites
 Flutter must be installed on your system.
